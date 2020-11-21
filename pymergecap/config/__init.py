@@ -1,0 +1,1 @@
+from pymergecap.config.config import mergecap_possible_locations
